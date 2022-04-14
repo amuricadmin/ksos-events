@@ -1,16 +1,19 @@
 [
-  {
-    "title": "Kate for MA - Boston",
-    "start": "2022-03-01"
+    {
+    "title": "Kate for SOS - Nantucket",
+    "start": "2022-04-23",
+    "end": "2022-04-24"
   },
   {
-    "title": "Kate for MA - Worcester",
-    "start": "2022-03-07",
-    "end": "2022-03-10"
+    "title": "Election Day",
+    "start": "2022-11-08"
   },
   {
-    "title": "Best food truck MA",
-    "url": "https://offthehookre.com/",
-    "start": "2022-03-28"
+    "title": "Last Day to Submit Signature Papers to Local Election Officials for Certification",
+    "end": "2022-08-02"
+  },
+  {
+    "title": "Last Day to File Signature Papers with Galvin's Office"
+    "end": "2022-08-30"
   }
 ]

@@ -1,9 +1,19 @@
 [
-    {
+  {
+    "title": "Kate for SOS - Framingham",
+    "event": "Earth Day Festival"
+    "start": "2022-04-23"
+  },
+  {
     "title": "Kate for SOS - Nantucket",
     "event": "Daffodil Festival"
-    "start": "2022-04-23",
-    "end": "2022-04-24"
+    "start": "2022-04-23"
+  },
+  {
+    "title": "Kate for SOS - Shrewsbury",
+    "event": "Food Truck Thursday - Town Hall"
+    "start": "2022-05-05"
+    "time": "4pm - 8pm"
   },
   {
     "title": "Election Day",

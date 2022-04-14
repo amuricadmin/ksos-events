@@ -3,6 +3,7 @@
     "title": "Kate for SOS - Framingham",
     "event": "Earth Day Festival"
     "start": "2022-04-23"
+    "time": "3pm - 7pm"
   },
   {
     "title": "Kate for SOS - Nantucket",
@@ -22,9 +23,11 @@
   {
     "title": "Last Day to Submit Signature Papers to Local Election Officials for Certification",
     "end": "2022-08-02"
+    "time": "by 5pm"
   },
   {
     "title": "Last Day to File Signature Papers with Galvin's Office"
     "end": "2022-08-30"
+    "time": "by 5pm"
   }
 ]

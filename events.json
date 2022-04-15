@@ -3,19 +3,16 @@
     "title": "Kate for SOS - Framingham",
     "event": "Earth Day Festival",
     "start": "2022-04-23",
-    "time": "3pm - 7pm"
   },
   {
     "title": "Kate for SOS - Nantucket",
     "event": "Daffodil Festival",
-    "allDay": true,
     "url": "https://daffodilfestival.com/about/"
   },
   {
     "title": "Kate for SOS - Shrewsbury",
     "event": "Food Truck Thursday - Town Hall",
     "start": "2022-05-05",
-    "time": "4pm - 8pm",
     "url": "https://shrewsburyma.gov/DocumentCenter/View/11426/Food-Truck-Thursdays-April-October-2022"
   },
   {
@@ -27,11 +24,9 @@
   {
     "title": "Last Day to Submit Signature Papers to Local Election Officials for Certification",
     "end": "2022-08-02",
-    "time": "by 5pm"
   },
   {
     "title": "Last Day to File Signature Papers with Galvin's Office",
     "end": "2022-08-30",
-    "time": "by 5pm"
   }
 ]

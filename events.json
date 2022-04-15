@@ -2,40 +2,36 @@
   {
     "title": "Kate for SOS - Framingham",
     "event": "Earth Day Festival",
-    "startStr": "20220426T150000-0400",
-    "endStr": "20220426T190000-0400"
+    "start": "2022-04-23",
+    "time": "3pm - 7pm"
   },
   {
     "title": "Kate for SOS - Nantucket",
     "event": "Daffodil Festival",
     "allDay": true,
-    "url": "https://daffodilfestival.com/"
+    "url": "https://daffodilfestival.com/about/"
   },
   {
     "title": "Kate for SOS - Shrewsbury",
     "event": "Food Truck Thursday - Town Hall",
-    "startStr": "20220505T160000-0400",
-    "endStr": "20220505T190000-0400",
+    "start": "2022-05-05",
+    "time": "4pm - 8pm",
     "url": "https://shrewsburyma.gov/DocumentCenter/View/11426/Food-Truck-Thursdays-April-October-2022"
   },
-   {
+  {
     "title": "Kate for SOS - Worcester",
     "event": "Tercentennial - Worcester Common Festival",
-    "allDay": true,
-    "url": "Tercentennial - Worcester Common Festival"
-  },
-  {
-    "title": "Election Day",
-    "allDay": true
+    "start": "2022-06-11",
+    "url": "https://www.worcesterma.gov/worcester-tercentennial"
   },
   {
     "title": "Last Day to Submit Signature Papers to Local Election Officials for Certification",
-    "startStr": "20220802T080000-0400",
-    "endStr": "20220802T170000-0400"
+    "end": "2022-08-02",
+    "time": "by 5pm"
   },
   {
     "title": "Last Day to File Signature Papers with Galvin's Office",
-    "startStr": "20220802T080000-0400",
-    "endStr": "20220802T170000-0400"
+    "end": "2022-08-30",
+    "time": "by 5pm"
   }
 ]

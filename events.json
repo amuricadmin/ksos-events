@@ -1,28 +1,36 @@
 [
   {
     "title": "Framingham - Earth Day Festival",
-    "start": "2022-04-23"
+    "start": "2022-04-23T15:00:00-05:00",
+    "end": "2022-04-23T19:00:00-05:00",
+    "url": "http://www.framinghamearthday.org/"
   },
   {
     "title": "Nantucket - Daffodil Festival",
+    "start": "2022-04-23",
+    "allDay": true,
     "url": "https://daffodilfestival.com/about/"
   },
   {
     "title": "Shrewsbury - Food Truck Thursday - Town Hall",
-    "start": "2022-05-05",
+    "start": "2022-04-23T16:00:00-05:00",
+    "end": "2022-04-23T20:00:00-05:00",
     "url": "https://shrewsburyma.gov/DocumentCenter/View/11426/Food-Truck-Thursdays-April-October-2022"
   },
   {
     "title": "Worcester - Tercentennial - Worcester Common Festival",
     "start": "2022-06-11",
+    "allDay": true,
     "url": "https://www.worcesterma.gov/worcester-tercentennial"
   },
   {
     "title": "Last Day to Submit Signature Papers to Local Election Officials for Certification",
-    "end": "2022-08-02"
+    "start": "2022-04-23T08:00:00-05:00",
+    "end": "2022-04-23T17:00:00-05:00"
   },
   {
     "title": "Last Day to File Signature Papers with Galvin's Office",
-    "end": "2022-08-30"
+    "start": "2022-04-23T08:00:00-05:00",
+    "end": "2022-04-23T17:00:00-05:00"
   }
 ]

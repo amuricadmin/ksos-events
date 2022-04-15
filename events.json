@@ -32,5 +32,10 @@
     "title": "Last Day to File Signature Papers with Galvin's Office",
     "start": "2022-08-30T08:00:00-05:00",
     "end": "2022-08-30T17:00:00-05:00"
+  },
+  {
+    "title": "Election Day",
+    "start": "2022-11-08",
+    "allDay": true
   }
 ]
